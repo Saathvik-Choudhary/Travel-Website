@@ -1,5 +1,8 @@
 # Travel Website - Biking Website
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![Discussions](https://img.shields.io/badge/💬-discussions-blue.svg)](https://github.com/Saathvik-Choudhary/Travel-Website/discussions)
+
+
 A modern, responsive website for a biking adventure company built with React and Vite.
 
 ## Features
@@ -150,3 +153,16 @@ For questions about this project, contact the development team.
 ---
 
 **Last Updated**: January 2025 - Automated deployment testing in progress.
+
+
+## 💬 Feedback & Contributing
+
+This project is actively evolving and **your opinion matters**. You don't have to write
+code to help — telling me what you think is the most valuable thing you can do.
+
+- 💡 [Share feedback or an idea](https://github.com/Saathvik-Choudhary/Travel-Website/issues/new?template=feedback.md)
+- 💬 [Start a Discussion](https://github.com/Saathvik-Choudhary/Travel-Website/discussions) — questions, ideas, first impressions
+- 🐞 [Report a bug](https://github.com/Saathvik-Choudhary/Travel-Website/issues/new?template=bug_report.md)
+- ⭐ Star the repo if you find it useful — it helps others discover it
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide. Thanks for stopping by! 🙌
